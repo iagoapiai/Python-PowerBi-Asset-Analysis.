@@ -17,10 +17,9 @@ This code handles the data extracted from my company's website and converts it t
 
 ## OBSERVATION
 
-This code will only work if you change the file directories and change the API URL!
+This code will only work if you change change the API URL!
 
 <p align="center">
-    <img src="https://github.com/iagoapiai/Asset-Management-Interface/assets/116030785/e9c9eb8b-757b-4e84-877c-ae66d44e8901">
-</p>
+    <img src="https://github.com/iagoapiai/Python-PowerBi-Asset-Analysis./assets/116030785/9119b296-58e3-4edb-aa45-83e6006e6a10">
 
 Personal project, made to increase efficiency in my work! ❤️
